@@ -1,6 +1,8 @@
 # mojo
 
-A new Flutter application.
+A demo app to showcase UI design.
+
+
 
 ## Getting Started
 
