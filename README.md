@@ -6,6 +6,11 @@ A demo app to showcase UI design.
 ![device_login](https://user-images.githubusercontent.com/16548367/82905068-fc8dc080-9f80-11ea-9e9d-388181c4deb9.png)
 ![device_signup](https://user-images.githubusercontent.com/16548367/82905071-fc8dc080-9f80-11ea-852b-fcaf14077cfb.png)
 
+# Points to note:
+
+- Focuses on UI. Action buttons don't work at the moment.
+- Used pngs exported from Figma wherever required and default Icon widgets as applicable.
+- Tested on various Android devices to confirm all screens render properly.
 
 ## Getting Started
 
