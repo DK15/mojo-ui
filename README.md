@@ -2,6 +2,9 @@
 
 A demo app to showcase UI design.
 
+![device_flash_screen](https://user-images.githubusercontent.com/16548367/82905041-f4ce1c00-9f80-11ea-8bc0-db29cb2aa234.png)
+![device_login](https://user-images.githubusercontent.com/16548367/82905068-fc8dc080-9f80-11ea-9e9d-388181c4deb9.png)
+![device_signup](https://user-images.githubusercontent.com/16548367/82905071-fc8dc080-9f80-11ea-852b-fcaf14077cfb.png)
 
 
 ## Getting Started
